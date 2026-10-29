@@ -1,0 +1,13 @@
+[
+  {
+    "id": "q1",
+    "question": "Which sign indicates left-sided heart failure?",
+    "options": [
+      { "id": "a", "text": "Peripheral edema", "isCorrect": false },
+      { "id": "b", "text": "Pulmonary crackles", "isCorrect": true },
+      { "id": "c", "text": "Jugular venous distention", "isCorrect": false },
+      { "id": "d", "text": "Hepatomegaly", "isCorrect": false }
+    ],
+    "explanation": "Pulmonary crackles indicate fluid in the lungs from left-sided failure."
+  }
+]
